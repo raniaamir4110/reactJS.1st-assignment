@@ -1,0 +1,24 @@
+@font-face {
+    font-family: BodoniModa;
+    src: url(../../fonts/BodoniModa-VariableFont_opsz\,wght.ttf);
+}
+@font-face {
+    font-family: Serif;
+    src: url(../../fonts/DMSerifDisplay-Regular.ttf);
+}
+.logo_heading{
+    font-family: Serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    
+}
+header{
+    background-color: #FEF4EC !important;
+    color: #521B3A;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25  );
+}
+.nav .nav-link{
+   color: #521B3A; 
+   
+}
